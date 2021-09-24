@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.4.0](https://www.github.com/Teletha/sinobu/compare/v2.3.1...v2.4.0) (2021-09-24)
+
+
+### Features
+
+* (Re)Provide logging methods. ([0861c16](https://www.github.com/Teletha/sinobu/commit/0861c16b663168f51c581fa0dddd659e36cfe4a5))
+* Add various configurable logging parameters. ([a8dd676](https://www.github.com/Teletha/sinobu/commit/a8dd67635a10f0671c1363a148f5f9bc4e2feb78))
+* High speed logging utility. ([360bf55](https://www.github.com/Teletha/sinobu/commit/360bf55d67939742eebb059fc89ac371f6e6c430))
+* I#env is strongly typed by the default value. ([e4dc29c](https://www.github.com/Teletha/sinobu/commit/e4dc29cafa84cc9d5a141238c3606675e0b76c80))
+
+
+### Bug Fixes
+
+* Enhance logging utility. ([8171859](https://www.github.com/Teletha/sinobu/commit/817185967604803f03fc4dd50ad2f5a92cd0437d))
+* Reduce memory usage on IO task. ([d284915](https://www.github.com/Teletha/sinobu/commit/d28491519bf31de57fee87b438fe3d05004ebe8f))
+* Update pom. ([eaeb35d](https://www.github.com/Teletha/sinobu/commit/eaeb35ddcc0ac8493f9912803d4e1d3fa27320f9))
+
 ### [2.3.1](https://www.github.com/Teletha/sinobu/compare/v2.3.0...v2.3.1) (2021-09-07)
 
 
